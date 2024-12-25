@@ -1,4 +1,4 @@
-## A startup providing simple, siloed, solutions for reporting on new requirements for Europen SME companies
+## A startup providing simple, siloed, solutions for reporting on new ESG compliance requirements for European SME companies
 
 <!--
 
